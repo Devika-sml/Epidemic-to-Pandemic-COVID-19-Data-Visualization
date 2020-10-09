@@ -1,12 +1,16 @@
 # Epidemic-to-Pandemic-COVID-19-Data-Visualization
 
 ## Table of Contents
+* [Sample Map](#sample-map)
 * [Overview](#overview)
 *	[Motivation](#motivation)
 *	[Data Description](#data-description)
 *	[Technical Aspect](#technical-aspect)
 *	[Team](#team)
 *	[Credits](#credits)
+
+## Sample Map
+![Alt](https://raw.githubusercontent.com/Devika-sml/Epidemic-to-Pandemic-COVID-19-Data-Visualization/master/Capture.PNG)
 
 ## Overview
 An attempt to visualise the outbreak of COVID-19 on India map and Kerala map, State wise and District wise respectively.
